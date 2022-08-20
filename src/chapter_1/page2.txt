@@ -1,3 +1,5 @@
 
  This is my page 2
  This is the journey of a new lifestyle
+
+ I edited page 2 after I committed this
