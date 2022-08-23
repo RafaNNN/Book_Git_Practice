@@ -3,3 +3,5 @@
  This is the journey of a new lifestyle
 
  I edited page 2 after I committed this
+
+ I am adding one more thing to this page, so I  can see the most updated commit
